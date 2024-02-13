@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
-- 💼 Senior Software Developer at LearnOBots, an EdTech Startup based in Islamabad, Pakistan
+- 💼 Lead Software Developer at LearnOBots, an EdTech Startup based in Islamabad, Pakistan
 
 - 🌱 I’m currently learning **Dockers Containers**, **Terraform**
 
