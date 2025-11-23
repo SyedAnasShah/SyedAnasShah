@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Anas Shah</h1>
 <h3 align="center">I'm Syed Anas Shah, a senior Software Engineer who loves problem solving. Passionate to contribute open-source projects and make cool products.</h3>
 
-- 💼 Lead Software Developer at LearnOBots, an EdTech Startup based in Islamabad, Pakistan
+- 💼 AI Engineer at Applab Qatar, based in Doha, Qatar
 
 - 🌱 I’m currently learning **Dockers Containers**, **Terraform**
 
